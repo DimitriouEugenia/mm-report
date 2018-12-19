@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# ΙΟΝΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ, ΤΜΗΜΑ ΠΛΗΡΟΦΟΡΙΚΗΣ
 
-You can use the [editor on GitHub](https://github.com/DimitriouEugenia/mm-report/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Shooter - Τελική αναφορά
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Μάθημα: Πολυμέσα
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Kαθηγητής: Χωριανόπουλος Κωνσταντίνος
 
-```markdown
-Syntax highlighted code block
+## Στοιχεία φοιτήτριας
 
-# Header 1
-## Header 2
-### Header 3
+## Ονοματεπώνυμο: Δημητρίου Ευγενία
 
-- Bulleted
-- List
+## ΑΜ: Π2015058
 
-1. Numbered
-2. List
+## Σύνοψη
 
-**Bold** and _Italic_ and `Code` text
+## Σύντομη Εισαγωγή
 
-[Link](url) and ![Image](src)
-```
+## Σύντομη ανάλυση σχετικών έργων και εργαλειών
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Μέθοδος και τεχνικές ανάπτυξης
 
-### Jekyll Themes
+Μεγάλος αριθμός αλλαγών που έγιναν στο παιχνίδι είναι βασισμένος στο tutorial που αναφέρεται και στην εκφώνηση, το οποίο βρίσκεται [εδώ](http://codeperfectionist.com/tag/space-shooter-phaser-js-tutorial/).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DimitriouEugenia/mm-report/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Ενδεικτικές εικόνες
 
-### Support or Contact
+## Συμπεράσματα
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Βιβλιόγραφια
