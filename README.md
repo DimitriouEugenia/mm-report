@@ -13,9 +13,9 @@
 
 ## ΑΜ: Π2015058
 
-Εκτελέσιμο: https://DimitriouEugenia.github.io/Shooter/
+Εκτελέσιμο: [https://DimitriouEugenia.github.io/Shooter/](https://DimitriouEugenia.github.io/Shooter/)
 
-Αποθετήριο κώδικα: https://github.com/DimitriouEugenia/Shooter
+Αποθετήριο κώδικα: [https://github.com/DimitriouEugenia/Shooter](https://github.com/DimitriouEugenia/Shooter)
 
 ## Σύνοψη
 
@@ -69,6 +69,6 @@
 
 ## Πηγές
 
-1. Backgrounds για το menu και το δεύτερο επίπεδο: https://github.com/Ouaz/FTL-diversityMod/
-2. Ηχητικά εφέ και μουσική: https://freesound.org/
-3. Εικόνες για τα power-ups: https://kenney.nl/assets/space-shooter-redux
+1. Backgrounds για το menu και το δεύτερο επίπεδο: [https://github.com/Ouaz/FTL-diversityMod/](https://github.com/Ouaz/FTL-diversityMod/)
+2. Ηχητικά εφέ και μουσική: [https://freesound.org/](https://freesound.org/)
+3. Εικόνες για τα power-ups: [https://kenney.nl/assets/space-shooter-redux](https://kenney.nl/assets/space-shooter-redux)
